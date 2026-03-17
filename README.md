@@ -14,11 +14,11 @@ I build **data pipelines**, **big data projects**, and **practical systems** —
 ---
 
 ## 🛠️ Tech & Tools
-**Languages:** Python, SQL, Java, HTML, CSS  
+**Languages:** Python(numpy), SQL, Java, HTML, CSS  
 **Big Data:** Hadoop (HDFS, MapReduce), Hive, Apache Spark  
 **Streaming:** Apache Kafka  
 **Database:** MySQL  
-**Tools:** VS Code, GitHub, Framer, Linux  
+**Tools:** VS Code, Jupyter notebook, GitHub, Framer, Linux  
 
 ---
 
@@ -64,9 +64,9 @@ I build **data pipelines**, **big data projects**, and **practical systems** —
 ---
 
 ## 🌐 Portfolio & Contact
-- 🔗 **Portfolio:** https://your-portfolio-link  
-- 📧 **Email:** your-email@example.com  
-- 🐙 **GitHub:** https://github.com/your-username  
+- 🔗 **Portfolio:** https://ankith-a.lovable.app/ 
+- 📧 **Email:** aankith808@gmail.com  
+- 🐙 **GitHub:** https://github.com/ankith-a 
 
 ---
 
