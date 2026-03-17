@@ -14,7 +14,7 @@ I build **data pipelines**, **big data projects**, and **practical systems** —
 ---
 
 ## 🛠️ Tech & Tools
-**Languages:** Python(numpy), SQL, Java, HTML, CSS  
+**Languages:** Python(pandas,numpy), SQL, Java, HTML, CSS  
 **Big Data:** Hadoop (HDFS, MapReduce), Hive, Apache Spark  
 **Streaming:** Apache Kafka  
 **Database:** MySQL  
