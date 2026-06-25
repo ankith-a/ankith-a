@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ankith A
+# Ankith A
 
 🎓 **BCA Graduate (MG University, 2025)**  
 📊 **Data Analyst | Data Science Enthusiast**  
