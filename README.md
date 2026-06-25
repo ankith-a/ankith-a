@@ -38,14 +38,7 @@ I build **data pipelines**, **big data projects**, and **practical systems** —
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-|[**kafka-gitankith-producer-consumer**](https://github.com/ankith-a/Kafka)| End-to-end Kafka workflow demonstrating message production, consumption, and topic-based streaming using CLI and Python | Python, Kafka |
-| **spark-kafka-streaming** | Real-time streaming pipeline integrating Spark with Kafka for data processing and transformation | Spark, Kafka |
-| **hadoop-hive-analysis** | Batch processing project using Hadoop & Hive for large-scale data querying and analysis | Hadoop, Hive |
-| **financial-risk-eda** | Data analysis project focusing on financial risk insights with cleaning, visualization, and interpretation | Python, Pandas |
 
 ---
 
@@ -63,8 +56,7 @@ I build **data pipelines**, **big data projects**, and **practical systems** —
 
 ---
 
-## 🌐 Portfolio & Contact
-- 🔗 **Portfolio:** https://ankith-a.lovable.app/ 
+## 🌐  Contact
 - 📧 **Email:** aankith808@gmail.com  
 - 🐙 **GitHub:** https://github.com/ankith-a 
 
