@@ -1,6 +1,6 @@
 <h1 align="center"> Ankith A</h1>
 
-<h3 align="center">📊 Data Analyst | 📈 Data Science Enthusiast | 🤖 Machine Learning Learner</h3>
+<h3 align="center">📊 Data Analyst | 📈 Data Science | 🤖 Machine Learning </h3>
 
 <p align="center">
 Transforming raw data into actionable insights through analytics, visualization, and machine learning.
