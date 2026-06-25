@@ -61,19 +61,59 @@ I'm a passionate **Data Analyst** who enjoys transforming raw data into meaningf
 
 # 📂 Featured Projects
 
-### 🏠 California House Price Prediction
-An end-to-end Machine Learning project that predicts California housing prices using data preprocessing, feature engineering, and regression models.
+<table>
+<tr>
+<td width="50%">
 
-### 🛡 Insurance Claim Fraud Detection
-Machine Learning classification model to detect fraudulent insurance claims using data preprocessing, EDA, and predictive modeling.
+### 🏠 House Price Prediction
+An end-to-end Machine Learning project that predicts California housing prices using data preprocessing, feature engineering, regression models, and hyperparameter tuning.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+🔗 **Repository:**  
+https://github.com/ankith-a/House-Price-Prediction
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Insurance Claim Fraud Detection
+A Machine Learning classification project for detecting fraudulent insurance claims using data preprocessing, EDA, feature engineering, and predictive modeling.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Seaborn, NumPy
+
+🔗 **Repository:**  
+https://github.com/ankith-a/Insurance-Claim-Fraud-Detection
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 💼 Salary Prediction Using Machine Learning
-Regression model that predicts software developer salaries using the Stack Overflow Developer Survey dataset.
+A regression-based Machine Learning project that predicts software developer salaries using the Stack Overflow Developer Survey dataset.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
+
+🔗 **Repository:**  
+https://github.com/ankith-a/Survey-Prediction
+
+</td>
+
+<td width="50%">
 
 ### 🎭 Money Heist Data Analysis
-Performed Exploratory Data Analysis (EDA) to uncover trends, patterns, and insights through statistical analysis and visualizations.
+Performed Exploratory Data Analysis (EDA) on the Money Heist dataset to uncover trends, patterns, and insights through statistical analysis and data visualization.
 
----
+**Tech Stack:** Python, Pandas, NumPy, Seaborn, Plotly
+
+🔗 **Repository:**  
+https://github.com/ankith-a/Money-Heist-EDA
+
+</td>
+</tr>
+</table>
 
 # 📈 Currently Learning
 
