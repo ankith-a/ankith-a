@@ -1,53 +1,71 @@
-# Ankith A
+<h1 align="center"> Ankith A</h1>
 
-🎓 **BCA Graduate (MG University, 2025)**  
-📊 **Data Analyst | Data Science**  
-📍 Kannur, Kerala, India
+<h3 align="center">📊 Data Analyst | 📈 Data Science Enthusiast | 🤖 Machine Learning Learner</h3>
 
----
+<p align="center">
+Transforming raw data into actionable insights through analytics, visualization, and machine learning.
+</p>
 
-## 💫 About Me
-
-I'm a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights using modern data analytics and machine learning techniques. I love solving real-world business problems through data-driven solutions and continuously expanding my knowledge in Data Science and Artificial Intelligence.
-
-- 🔍 Focused on **Exploratory Data Analysis (EDA)**
-- 🧹 Skilled in **Data Cleaning & Preprocessing**
-- 📈 Passionate about **Data Visualization & Business Analytics**
-- 🤖 Building Machine Learning models for predictive analytics
-- 🌱 Continuously learning new technologies in Data Science & AI
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankith-a&label=Profile%20Views&color=0e75b6&style=flat" alt="ankith-a" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
+
+🎓 **BCA Graduate (MG University, 2025)**
+
+📍 **Kannur, Kerala, India**
+
+I'm a passionate **Data Analyst** with a strong interest in turning complex data into meaningful business insights. I enjoy solving real-world problems through data analytics, visualization, and machine learning.
+
+My expertise includes data cleaning, exploratory data analysis (EDA), dashboard development, predictive modeling, and business intelligence using modern analytics tools.
+
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🧹 Data Cleaning
+- 📋 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning
+- 💡 Business Analytics
+
+---
+
+# 🚀 Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
 ### 📊 Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 📈 Data Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
 ### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📉 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 📊 Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Focus Areas
 
 - 📊 Exploratory Data Analysis (EDA)
 - 🧹 Data Cleaning & Preprocessing
@@ -55,72 +73,75 @@ I'm a passionate **Data Analyst** who enjoys transforming raw data into meaningf
 - 📉 Business Intelligence
 - 🤖 Machine Learning
 - 📊 Predictive Analytics
-- 💡 Business Problem Solving
+- 📋 Dashboard Development
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏠 House Price Prediction
-An end-to-end Machine Learning project that predicts California housing prices using data preprocessing, feature engineering, regression models, and hyperparameter tuning.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+## 🏠 House Price Prediction
+An end-to-end Machine Learning project that predicts California housing prices using data preprocessing, feature engineering, and regression models.
 
 🔗 **Repository:**  
 https://github.com/ankith-a/House-Price-Prediction
 
-</td>
+---
 
-<td width="50%">
-
-### 🛡️ Insurance Claim Fraud Detection
-A Machine Learning classification project for detecting fraudulent insurance claims using data preprocessing, EDA, feature engineering, and predictive modeling.
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Seaborn, NumPy
+## 🛡️ Insurance Claim Fraud Detection
+Machine Learning classification project for detecting fraudulent insurance claims using data preprocessing, EDA, feature engineering, and predictive modeling.
 
 🔗 **Repository:**  
 https://github.com/ankith-a/Insurance-Claim-Fraud-Detection
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
-
-### 💼 Salary Prediction Using Machine Learning
-A regression-based Machine Learning project that predicts software developer salaries using the Stack Overflow Developer Survey dataset.
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
+## 💼 Salary Prediction Using Machine Learning
+A regression-based machine learning model that predicts software developer salaries using the Stack Overflow Developer Survey dataset.
 
 🔗 **Repository:**  
 https://github.com/ankith-a/Survey-Prediction
 
-</td>
+---
 
-<td width="50%">
-
-### 🎭 Money Heist Data Analysis
-Performed Exploratory Data Analysis (EDA) on the Money Heist dataset to uncover trends, patterns, and insights through statistical analysis and data visualization.
-
-**Tech Stack:** Python, Pandas, NumPy, Seaborn, Plotly
+## 🎭 Money Heist Data Analysis
+Performed Exploratory Data Analysis (EDA) to uncover trends, patterns, and insights through statistical analysis and data visualization.
 
 🔗 **Repository:**  
 https://github.com/ankith-a/Money-Heist-EDA
 
-</td>
-</tr>
-</table>
+---
 
-# 📈 Currently Learning
+# 💼 Skills
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ Data Visualization
+
+✔ Feature Engineering
+
+✔ Machine Learning
+
+✔ Regression
+
+✔ Classification
+
+✔ Business Intelligence
+
+✔ Dashboard Development
+
+✔ SQL Querying
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced Machine Learning
 - Deep Learning
 - Data Engineering
 - Artificial Intelligence
+- MLOps
 - Cloud for Data Analytics
 
 ---
@@ -128,28 +149,69 @@ https://github.com/ankith-a/Money-Heist-EDA
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=ankith-a&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=ankith-a&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankith-a&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankith-a&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ankith-a&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankith-a&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** aankith808@gmail.com
+📧 **Email:**  
+**aankith808@gmail.com**
 
-📍 **Location:** Kannur, Kerala, India
+📍 **Location:**  
+Kannur, Kerala, India
+
+💻 **GitHub:**  
+https://github.com/ankith-a
 
 ---
 
-# 💡 Quote
+# 💡 Fun Facts
 
-> **"Data is a valuable asset, but its true power lies in transforming it into meaningful insights."**
+- 📊 I enjoy transforming raw data into meaningful insights.
+- 📈 I love building interactive dashboards.
+- 🤖 I enjoy solving real-world business problems using Machine Learning.
+- 🚀 I continuously learn and improve my data analytics skills.
+- ☕ Coffee + Python = Productivity.
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
+# 💭 Favorite Quote
+
+> **"Without data, you're just another person with an opinion."**  
+> — *W. Edwards Deming*
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
+
+<p align="center">
+If you like my work, consider ⭐ starring my repositories and following my GitHub journey.
+</p>
