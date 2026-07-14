@@ -1,74 +1,66 @@
-<h1 align="center">Ankith A</h1>
+<h1 align="center">Hi 👋, I'm Ankith A</h1>
 
 <h3 align="center">📊 Data Analyst | 📈 Data Science Enthusiast | 🤖 Machine Learning Learner</h3>
 
 <p align="center">
-
-<a href="https://ankith-a.github.io/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ankith4/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:aankith808@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/ankith-a">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
+Transforming raw data into actionable insights through analytics, visualization, and machine learning.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ankith-a&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=ankith-a&label=Profile%20Views&color=0e75b6&style=flat" alt="ankith-a" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 **BCA Graduate (MG University, 2025)** passionate about building end-to-end data solutions—from raw datasets to dashboards and machine learning models that drive better decisions.
+🎓 **BCA Graduate (MG University, 2025)**
 
-- 📊 **Focus:** EDA • Data Cleaning • Data Visualization • Machine Learning
-- 🛠 **Stack:** Python • SQL • Excel • Pandas • NumPy • Scikit-learn • Seaborn • Plotly • Power BI • MySQL • Streamlit
-- 🚀 **Exploring:** Advanced ML • Model Deployment • Data Engineering
-- 📍 **Location:** Kannur, Kerala, India
-- 💼 **Open To:** Data Analyst • Business Analyst • Data Science Roles
-- 🌐 **Portfolio:** **[ankith-a.github.io](https://ankith-a.github.io/)**
+📍 **Kannur, Kerala, India**
+
+I'm a passionate **Data Analyst** with a strong interest in turning complex data into meaningful business insights. I enjoy solving real-world problems through data analytics, visualization, and machine learning.
+
+My expertise includes data cleaning, exploratory data analysis (EDA), dashboard development, predictive modeling, and business intelligence using modern analytics tools.
+
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🧹 Data Cleaning
+- 📋 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning
+- 💡 Business Analytics
 
 ---
 
-### 👨‍💻 Languages & Libraries
+# 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### 📊 Data Analysis, Visualization & Machine Learning
+### 📊 Data Analysis
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### 📈 Data Visualization
 
 <p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -86,14 +78,6 @@
 ---
 
 # 🚀 Featured Projects
-
-## 📊 Meta Ads Performance Dashboard
-Developed an interactive Power BI dashboard to analyze Meta (Facebook & Instagram) advertising performance with real-time KPI tracking, audience insights, geographic analysis, and campaign performance metrics.
-
-🔗 **Repository:**  
-https://github.com/ankith-a/Meta-Ad-Performance-Dashboard
-
----
 
 ## 🏠 House Price Prediction
 An end-to-end Machine Learning project that predicts California housing prices using data preprocessing, feature engineering, and regression models.
