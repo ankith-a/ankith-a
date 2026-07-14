@@ -149,7 +149,7 @@ https://github.com/ankith-a/Money-Heist-EDA
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -157,7 +157,7 @@ https://github.com/ankith-a/Money-Heist-EDA
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankith-a&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankith-a&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -165,7 +165,7 @@ https://github.com/ankith-a/Money-Heist-EDA
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankith-a&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ankith-a&theme=tokyonight"/>
 </p>
 
 ---
