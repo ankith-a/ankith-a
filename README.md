@@ -1,34 +1,46 @@
-<h1 align="center"> Ankith A</h1>
+<h1 align="center">Hi 👋, I'm Ankith A</h1>
 
-<h3 align="center">📊 Data Analyst | 📈 Data Science | 🤖 Machine Learning </h3>
+<h3 align="center">
+Data Analyst • Python • SQL • EDA • Data Visualization • Machine Learning
+</h3>
 
 <p align="center">
-Transforming raw data into actionable insights through analytics, visualization, and machine learning.
+
+<a href="https://ankith-a.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/🌐 Portfolio-222222?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankith4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aankith808@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ankith-a" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankith-a&label=Profile%20Views&color=0e75b6&style=flat" alt="ankith-a" />
+<img src="https://komarev.com/ghpvc/?username=ankith-a&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 **BCA Graduate (MG University, 2025)**
+BCA graduate **(MG University, 2025)** passionate about transforming raw data into meaningful business insights through analytics, visualization, dashboards, and machine learning. I enjoy building end-to-end data projects that solve real-world problems using modern analytics tools.
 
-📍 **Kannur, Kerala, India**
-
-I'm a passionate **Data Analyst** with a strong interest in turning complex data into meaningful business insights. I enjoy solving real-world problems through data analytics, visualization, and machine learning.
-
-My expertise includes data cleaning, exploratory data analysis (EDA), dashboard development, predictive modeling, and business intelligence using modern analytics tools.
-
-- 📊 Data Analysis
-- 📈 Data Visualization
-- 🧹 Data Cleaning
-- 📋 Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning
-- 💡 Business Analytics
-
+- 📊 **Focus:** EDA • Data Cleaning • Data Visualization • Machine Learning
+- 🛠 **Stack:** Python • SQL • Excel • Pandas • NumPy • Scikit-learn • Seaborn • Plotly • Power BI • MySQL • Streamlit
+- 🚀 **Currently Exploring:** Advanced Machine Learning • Model Deployment • Data Engineering • AI
+- 📍 **Location:** Kannur, Kerala, India
+- 💼 **Open To:** Data Analyst • Business Analyst • Data Science Internships • Entry-Level Data Science Roles
+- 📚 **Learning:** Building production-ready analytics dashboards and deploying ML models with Streamlit
+- 🌐 **Portfolio:** ankith-a.github.io
 ---
 
 # 🚀 Tech Stack
