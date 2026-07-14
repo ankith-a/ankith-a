@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankith A</h1>
+<h1 align="center">Ankith A</h1>
 
 <h3 align="center">
 Data Analyst • Python • SQL • EDA • Data Visualization • Machine Learning
