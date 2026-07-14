@@ -40,7 +40,7 @@ BCA graduate **(MG University, 2025)** passionate about transforming raw data in
 - 📍 **Location:** Kannur, Kerala, India
 - 💼 **Open To:** Data Analyst • Business Analyst • Data Science Internships • Entry-Level Data Science Roles
 - 📚 **Learning:** Building production-ready analytics dashboards and deploying ML models with Streamlit
-- 🌐 **Portfolio:** **https://ankith-a.github.io/**
+- 🌐 **Portfolio:** **[ankith-a.github.io](https://ankith-a.github.io/)**
 ---
 
 # 🚀 Tech Stack
