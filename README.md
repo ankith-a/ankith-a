@@ -79,6 +79,14 @@ My expertise includes data cleaning, exploratory data analysis (EDA), dashboard 
 
 # 🚀 Featured Projects
 
+## 📊 Meta Ads Performance Dashboard
+Developed an interactive Power BI dashboard to analyze Meta (Facebook & Instagram) advertising performance with real-time KPI tracking, audience insights, geographic analysis, and campaign performance metrics.
+
+🔗 **Repository:**  
+https://github.com/ankith-a/Meta-Ad-Performance-Dashboard
+
+---
+
 ## 🏠 House Price Prediction
 An end-to-end Machine Learning project that predicts California housing prices using data preprocessing, feature engineering, and regression models.
 
