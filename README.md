@@ -182,14 +182,6 @@ https://github.com/ankith-a/Money-Heist-EDA
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=ankith-a&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
