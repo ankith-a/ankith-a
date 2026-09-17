@@ -168,16 +168,27 @@ https://github.com/ankith-a/Money-Heist-EDA
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankith's GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankith-a&theme=tokyonight&hide_border=true" alt="Ankith's Streak Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Ankith's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ankith-a&theme=tokyonight&hide_border=true"
+    alt="Ankith's GitHub Streak"
+    height="180"
+  />
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankith-a&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankith-a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Ankith's Most Used Languages"
+  />
 </p>
 
 ---
