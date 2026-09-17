@@ -170,10 +170,10 @@ https://github.com/ankith-a/Money-Heist-EDA
 <p align="center">
   <img 
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=ankith-a&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Ankith's GitHub Stats"
   />
-
+  
   <img 
     height="170"
     src="https://streak-stats.demolab.com?user=ankith-a&theme=tokyonight&hide_border=true"
