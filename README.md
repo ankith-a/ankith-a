@@ -82,6 +82,14 @@
 
 # 🚀 Featured Projects
 
+## 💊 Medicine Recommendation & Treatment Prediction System
+A data science project that explores a 100,000-record medicine dataset and builds recommendation and prediction models to suggest treatments and medicines based on disease, treatment type, or tablet name.
+
+🔗 **Repository:**  
+https://github.com/ankith-a/Medicine-Information-Recommendation-System-
+
+---
+
 ## 📊 Meta Ads Performance Dashboard
 Developed an interactive Power BI dashboard to analyze Meta (Facebook & Instagram) advertising performance with real-time KPI tracking, audience insights, geographic analysis, and campaign performance metrics.
 
